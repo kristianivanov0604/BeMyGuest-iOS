@@ -1,0 +1,26 @@
+dependencies: \
+  /Users/simba/Documents/Work/201504/19BeMyGuest/BeMyGuest/BeMyGuest/ViewController.m \
+  /Users/simba/Documents/Work/201504/19BeMyGuest/BeMyGuest/BeMyGuest/ViewController.h \
+  /Users/simba/Documents/Work/201504/19BeMyGuest/BeMyGuest/BeMyGuest/PaperFoldView.h \
+  /Users/simba/Documents/Work/201504/19BeMyGuest/BeMyGuest/BeMyGuest/FacingView.h \
+  /Users/simba/Documents/Work/201504/19BeMyGuest/BeMyGuest/BeMyGuest/ShadowView.h \
+  /Users/simba/Documents/Work/201504/19BeMyGuest/BeMyGuest/BeMyGuest/PaperFoldConstants.h \
+  /Users/simba/Documents/Work/201504/19BeMyGuest/BeMyGuest/BeMyGuest/FoldView.h \
+  /Users/simba/Documents/Work/201504/19BeMyGuest/BeMyGuest/BeMyGuest/MultiFoldView.h \
+  /Users/simba/Documents/Work/201504/19BeMyGuest/BeMyGuest/BeMyGuest/TouchThroughUIView.h \
+  /Users/simba/Documents/Work/201504/19BeMyGuest/BeMyGuest/BeMyGuest/Places.h \
+  /Users/simba/Documents/Work/201504/19BeMyGuest/BeMyGuest/BeMyGuest/BeMyGuestAPI.h \
+  /Users/simba/Documents/Work/201504/19BeMyGuest/BeMyGuest/BeMyGuest/Global.h \
+  /Users/simba/Documents/Work/201504/19BeMyGuest/BeMyGuest/AFNetworking/AFJSONRequestOperation.h \
+  /Users/simba/Documents/Work/201504/19BeMyGuest/BeMyGuest/AFNetworking/AFHTTPRequestOperation.h \
+  /Users/simba/Documents/Work/201504/19BeMyGuest/BeMyGuest/AFNetworking/AFURLConnectionOperation.h \
+  /Users/simba/Documents/Work/201504/19BeMyGuest/BeMyGuest/AFNetworking/AFHTTPClient.h \
+  /Users/simba/Documents/Work/201504/19BeMyGuest/BeMyGuest/BeMyGuest/Events.h \
+  /Users/simba/Documents/Work/201504/19BeMyGuest/BeMyGuest/BeMyGuest/Offers.h \
+  /Users/simba/Documents/Work/201504/19BeMyGuest/BeMyGuest/Configurations.h \
+  /Users/simba/Documents/Work/201504/19BeMyGuest/BeMyGuest/Checkin.h \
+  /Users/simba/Documents/Work/201504/19BeMyGuest/BeMyGuest/BeMyGuest/UIView+Screenshot.h \
+  /Users/simba/Documents/Work/201504/19BeMyGuest/BeMyGuest/BeMyGuest/CustomCellMenu.h \
+  /Users/simba/Documents/Work/201504/19BeMyGuest/BeMyGuest/BeMyGuest/PlacesDescription.h \
+  /Users/simba/Documents/Work/201504/19BeMyGuest/BeMyGuest/Flurry/Flurry.h \
+  /Users/simba/Documents/Work/201504/19BeMyGuest/BeMyGuest/BeMyGuest/EventsDescription.h

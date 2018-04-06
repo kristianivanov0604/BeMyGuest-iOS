@@ -1,0 +1,29 @@
+dependencies: \
+  /Users/simba/Documents/Work/201504/19BeMyGuest/BeMyGuest/BeMyGuest/Offers.m \
+  /Users/simba/Documents/Work/201504/19BeMyGuest/BeMyGuest/BeMyGuest/Offers.h \
+  /Users/simba/Documents/Work/201504/19BeMyGuest/BeMyGuest/BeMyGuest/BeMyGuestAPI.h \
+  /Users/simba/Documents/Work/201504/19BeMyGuest/BeMyGuest/BeMyGuest/Global.h \
+  /Users/simba/Documents/Work/201504/19BeMyGuest/BeMyGuest/AFNetworking/AFJSONRequestOperation.h \
+  /Users/simba/Documents/Work/201504/19BeMyGuest/BeMyGuest/AFNetworking/AFHTTPRequestOperation.h \
+  /Users/simba/Documents/Work/201504/19BeMyGuest/BeMyGuest/AFNetworking/AFURLConnectionOperation.h \
+  /Users/simba/Documents/Work/201504/19BeMyGuest/BeMyGuest/AFNetworking/AFHTTPClient.h \
+  /Users/simba/Documents/Work/201504/19BeMyGuest/BeMyGuest/BeMyGuest/CustomCellOffers.h \
+  /Users/simba/Documents/Work/201504/19BeMyGuest/BeMyGuest/BeMyGuest/OffersDescription.h \
+  /Users/simba/Documents/Work/201504/19BeMyGuest/BeMyGuest/BeMyGuest/ViewController.h \
+  /Users/simba/Documents/Work/201504/19BeMyGuest/BeMyGuest/BeMyGuest/PaperFoldView.h \
+  /Users/simba/Documents/Work/201504/19BeMyGuest/BeMyGuest/BeMyGuest/FacingView.h \
+  /Users/simba/Documents/Work/201504/19BeMyGuest/BeMyGuest/BeMyGuest/ShadowView.h \
+  /Users/simba/Documents/Work/201504/19BeMyGuest/BeMyGuest/BeMyGuest/PaperFoldConstants.h \
+  /Users/simba/Documents/Work/201504/19BeMyGuest/BeMyGuest/BeMyGuest/FoldView.h \
+  /Users/simba/Documents/Work/201504/19BeMyGuest/BeMyGuest/BeMyGuest/MultiFoldView.h \
+  /Users/simba/Documents/Work/201504/19BeMyGuest/BeMyGuest/BeMyGuest/TouchThroughUIView.h \
+  /Users/simba/Documents/Work/201504/19BeMyGuest/BeMyGuest/BeMyGuest/Places.h \
+  /Users/simba/Documents/Work/201504/19BeMyGuest/BeMyGuest/BeMyGuest/Events.h \
+  /Users/simba/Documents/Work/201504/19BeMyGuest/BeMyGuest/Configurations.h \
+  /Users/simba/Documents/Work/201504/19BeMyGuest/BeMyGuest/Checkin.h \
+  /Users/simba/Documents/Work/201504/19BeMyGuest/BeMyGuest/SDWebImage.framework/Headers/UIImageView+WebCache.h \
+  /Users/simba/Documents/Work/201504/19BeMyGuest/BeMyGuest/SDWebImage.framework/Headers/SDWebImageCompat.h \
+  /Users/simba/Documents/Work/201504/19BeMyGuest/BeMyGuest/SDWebImage.framework/Headers/SDWebImageManager.h \
+  /Users/simba/Documents/Work/201504/19BeMyGuest/BeMyGuest/SDWebImage.framework/Headers/SDWebImageOperation.h \
+  /Users/simba/Documents/Work/201504/19BeMyGuest/BeMyGuest/SDWebImage.framework/Headers/SDWebImageDownloader.h \
+  /Users/simba/Documents/Work/201504/19BeMyGuest/BeMyGuest/SDWebImage.framework/Headers/SDImageCache.h
